@@ -1,0 +1,29 @@
+{
+  "name": "json-db-crud-server",
+  "version": "1.0.0",
+  "description": "crud operations in nodejs and json as database",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanekivly/json-db-crud-express-server.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "json-db",
+    "crud-operation",
+    "ghoulCode"
+  ],
+  "author": "kaneki vly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kanekivly/json-db-crud-express-server/issues"
+  },
+  "homepage": "https://github.com/Kanekivly/json-db-crud-express-server#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
